@@ -6,6 +6,16 @@ This project presents an end-to-end **Exploratory Data Analysis (EDA)** of the *
 
 ---
 
+## 📈 Results Summary
+
+- Processed over **401,000 retail transactions**.
+- Analyzed **22,190 invoices**, **4,372 customers**, and **3,684 products**.
+- Identified the highest revenue-generating products and customer segments.
+- Discovered strong sales growth during **September–November**.
+- Found that the **United Kingdom** contributed the majority of revenue.
+
+---
+
 ## 📂 Dataset
 
 - **Source:** UCI Machine Learning Repository

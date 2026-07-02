@@ -50,6 +50,36 @@ This project presents an end-to-end **Exploratory Data Analysis (EDA)** of the *
 - High-value customers had the highest average order value, making them the most profitable customer segment.
 
 ---
+## 📊 Visualizations
+
+### 1. Monthly Sales Trend
+![Monthly Sales](images/monthly_sales.png)
+
+---
+
+### 2. Top 10 Products by Revenue
+![Top Products](images/top_products.png)
+
+---
+
+### 3. Customer Segmentation
+![Customer Segments](images/customer_segments.png)
+
+---
+
+### 4. Revenue by Country
+![Country Revenue](images/country_revenue.png)
+
+---
+
+### 5. Month-over-Month Sales Growth
+![Sales Growth](images/sales_growth.png)
+
+---
+
+### 6. Top Products in United Kingdom
+![UK Top Products](images/uk_top_products.png)
+---
 
 ## 💼 Business Recommendations
 
@@ -64,13 +94,21 @@ This project presents an end-to-end **Exploratory Data Analysis (EDA)** of the *
 ```text
 online-retail-sales-analysis/
 │
+├── images/
+│   ├── country_revenue.png
+│   ├── customer_segments.png
+│   ├── monthly_sales.png
+│   ├── quantity_distribution.png
+│   ├── sales_growth.png
+│   ├── top_products.png
+│   ├── uk_top_products.png
+│   └── unitprice_distribution.png
+│
 ├── Online_Retail_Sales_Analysis.ipynb
 ├── README.md
 ├── requirements.txt
 └── LICENSE
 ```
-
----
 
 ## 🚀 How to Run
 
